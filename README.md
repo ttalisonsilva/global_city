@@ -1,4 +1,5 @@
-# Global City Populations - Population of the World's Largest Cities
+# Global City Populations.
+Population of the World's Largest Cities
 
 This repository contains a Python script that displays and analyzes the population data of the world's largest cities.
 
