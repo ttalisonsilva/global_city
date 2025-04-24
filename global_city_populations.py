@@ -3,6 +3,7 @@
 import pandas as pd
 
 # Sample data on the population of the world's largest cities
+
 data = {
     "City": ["Tokyo", "Delhi", "Shanghai", "São Paulo", "Mumbai"],
     "Country": ["Japan", "India", "China", "Brazil", "India"],
