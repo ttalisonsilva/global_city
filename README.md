@@ -22,9 +22,6 @@ The dataset includes the following columns:
 | Mumbai   | India  | 20.7                   |
 
 ## Python Script
-
-The script `global_city_populations.py` performs the following tasks:
-
 1. Loads a sample dataset of the world's largest cities and their populations.
 2. Displays the data in a tabular format.
 3. Identifies and displays the city with the largest population.
