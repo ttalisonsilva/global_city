@@ -1,6 +1,7 @@
 # global_city_populations.py
 
 import pandas as pd
+import operator
 
 # Sample data on the population of the world's largest cities
 
