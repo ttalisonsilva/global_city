@@ -13,7 +13,7 @@ The dataset includes the following columns:
 
 ### Example Data:
 
-| City      | Country | Population (Millions) |
+| City      | Country | Population (Mll) |
 |----------|--------|------------------------|
 | Tokyo    | Japan  | 37.4                   |
 | Delhi    | India  | 31.0                   |
